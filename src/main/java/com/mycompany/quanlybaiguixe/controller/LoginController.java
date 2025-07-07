@@ -2,12 +2,22 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+<<<<<<<< HEAD:src/main/java/com/mycompany/quanlybaiguixe/controller/LoginController.java
 package com.mycompany.quanlybaiguixe.controller;
 
 import com.mycompany.quanlybaiguixe.action.CheckLogin;
 import com.mycompany.quanlybaiguixe.entity.User;
 import com.mycompany.quanlybaiguixe.view.LoginView;
 import com.mycompany.quanlybaiguixe.view.MainView;
+========
+package com.mycompany.parkingmanagement.controller;
+
+import com.mycompany.parkingmanagement.action.CheckLogin;
+import com.mycompany.parkingmanagement.entity.User;
+import com.mycompany.parkingmanagement.view.LoginView;
+import com.mycompany.parkingmanagement.view.MainView;
+import com.mycompany.parkingmanagement.view.ManagerView;
+>>>>>>>> 4a59f0f273372d0b334d10346bb8c5d5e6b5e109:src/main/java/com/mycompany/parkingmanagement/controller/LoginController.java
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.ImageIcon;

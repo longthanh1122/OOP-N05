@@ -47,7 +47,11 @@
         </Component>
       </SubComponents>
     </Container>
+<<<<<<<< HEAD:src/main/java/com/mycompany/quanlybaiguixe/view/LoginView.form
     <Component class="com.mycompany.quanlybaiguixe.QuanLyBaiGuiXe.QuanLyBaiGuiXe" name="quanLyDoiTuongDacBiet1">
+========
+    <Component class="com.mycompany.parkingmanagement.ParkingManagement.ParkingManagement" name="quanLyDoiTuongDacBiet1">
+>>>>>>>> 4a59f0f273372d0b334d10346bb8c5d5e6b5e109:src/main/java/com/mycompany/parkingmanagement/view/LoginView.form
     </Component>
   </NonVisualComponents>
   <Properties>

@@ -2,6 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
+<<<<<<<< HEAD:src/main/java/com/mycompany/quanlybaiguixe/view/MainView.java
 package com.mycompany.quanlybaiguixe.view;
 import com.mycompany.quanlybaiguixe.controller.MainController;
 import com.mycompany.quanlybaiguixe.view.MainView;
@@ -9,6 +10,9 @@ import com.mycompany.quanlybaiguixe.view.MainView;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+========
+package com.mycompany.parkingmanagement.view;
+>>>>>>>> 4a59f0f273372d0b334d10346bb8c5d5e6b5e109:src/main/java/com/mycompany/parkingmanagement/view/MainView.java
 import java.awt.event.ActionListener;
 import javax.swing.ImageIcon;
 

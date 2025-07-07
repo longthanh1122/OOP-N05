@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 com\mycompany\quanlybaiguixe\view\LoginView$2.class
 com\mycompany\quanlybaiguixe\action\ManagerParkingLot$3.class
 com\raven\chart\Chart.class
@@ -42,3 +43,5 @@ com\mycompany\quanlybaiguixe\entity\ParkingLot.class
 com\mycompany\quanlybaiguixe\action\ManagerParkingLot$2.class
 com\mycompany\quanlybaiguixe\QuanLyBaiGuiXe\QuanLyBaiGuiXe$1.class
 com\raven\chart\Chart$1.class
+=======
+>>>>>>> 4a59f0f273372d0b334d10346bb8c5d5e6b5e109

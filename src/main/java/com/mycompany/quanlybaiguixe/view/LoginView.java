@@ -2,10 +2,17 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
+<<<<<<<< HEAD:src/main/java/com/mycompany/quanlybaiguixe/view/LoginView.java
 package com.mycompany.quanlybaiguixe.view;
 
 import com.mycompany.quanlybaiguixe.action.CheckLogin;
 import com.mycompany.quanlybaiguixe.entity.User;
+========
+package com.mycompany.parkingmanagement.view;
+
+import com.mycompany.parkingmanagement.action.CheckLogin;
+import com.mycompany.parkingmanagement.entity.User;
+>>>>>>>> 4a59f0f273372d0b334d10346bb8c5d5e6b5e109:src/main/java/com/mycompany/parkingmanagement/view/LoginView.java
 import java.awt.Component;
 import java.awt.Graphics;
 import java.awt.Image;
@@ -55,7 +62,11 @@ public class LoginView extends javax.swing.JFrame
         jMenuItem2 = new javax.swing.JMenuItem();
         jScrollPane1 = new javax.swing.JScrollPane();
         jTextPane1 = new javax.swing.JTextPane();
+<<<<<<<< HEAD:src/main/java/com/mycompany/quanlybaiguixe/view/LoginView.java
         quanLyDoiTuongDacBiet1 = new com.mycompany.quanlybaiguixe.QuanLyBaiGuiXe.QuanLyBaiGuiXe();
+========
+        quanLyDoiTuongDacBiet1 = new com.mycompany.parkingmanagement.ParkingManagement.ParkingManagement();
+>>>>>>>> 4a59f0f273372d0b334d10346bb8c5d5e6b5e109:src/main/java/com/mycompany/parkingmanagement/view/LoginView.java
         jPanel2 = new javax.swing.JPanel();
         jLabel3 = new javax.swing.JLabel();
         lblAvatar = new javax.swing.JLabel();
@@ -309,7 +320,11 @@ public class LoginView extends javax.swing.JFrame
     private javax.swing.JTextPane jTextPane1;
     private javax.swing.JLabel lblAvatar;
     private javax.swing.JPasswordField passwordField;
+<<<<<<<< HEAD:src/main/java/com/mycompany/quanlybaiguixe/view/LoginView.java
     private com.mycompany.quanlybaiguixe.QuanLyBaiGuiXe.QuanLyBaiGuiXe quanLyDoiTuongDacBiet1;
+========
+    private com.mycompany.parkingmanagement.ParkingManagement.ParkingManagement quanLyDoiTuongDacBiet1;
+>>>>>>>> 4a59f0f273372d0b334d10346bb8c5d5e6b5e109:src/main/java/com/mycompany/parkingmanagement/view/LoginView.java
     private javax.swing.JFormattedTextField userNameField;
     // End of variables declaration//GEN-END:variables
 
