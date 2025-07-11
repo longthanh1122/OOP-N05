@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-<<<<<<< HEAD
-Main-Class: com.mycompany.quanlybaiguixe.QuanLyBaiGuiXe.QuanLyBaiGuiXe
-=======
-Main-Class: com.mycompany.parkingmanagement.ParkingManagement
-
->>>>>>> 4a59f0f273372d0b334d10346bb8c5d5e6b5e109
